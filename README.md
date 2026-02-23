@@ -1,1 +1,1 @@
-# Katale-ug
+E-commerce platform for all.
